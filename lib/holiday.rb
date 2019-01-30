@@ -32,7 +32,7 @@ def add_supply_to_winter_holidays(holiday_hash, supply)
       end
     end
   end
-  
+
 
 end
 
@@ -90,10 +90,3 @@ def all_holidays_with_bbq(holiday_hash)
     end
     new_array
 end
-
-
-
-
-
-
-
